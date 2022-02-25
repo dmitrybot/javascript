@@ -8,16 +8,6 @@
 <<<<<<< HEAD
 e is available in other languages too. See [Translation](#translation)
 t Guides
-=======
-This gther Style Guides
->>>>>>> branch2
-
-  - [ES5 (Deprecated)](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
-  - [React](react/)
-  - [CSS-in-JavaScript](css-in-javascript/)
-  - [CSS & Sass](https://github.com/airbnb/css)
-  - [Ruby](https://github.com/airbnb/ruby)
-
 ## Table of Contents
 
   1. [Types](#types)
